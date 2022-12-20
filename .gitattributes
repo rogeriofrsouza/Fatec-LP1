@@ -1,13 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
-# cygwin
-.bash_history
-.bash_profile
-.bashrc
-.inputrc
-.minttyrc
-.profile
-
-# vscode
-.vscode

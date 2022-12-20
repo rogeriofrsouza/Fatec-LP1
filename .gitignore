@@ -1,0 +1,10 @@
+# cygwin
+.bash_history
+.bash_profile
+.bashrc
+.inputrc
+.minttyrc
+.profile
+
+# vscode
+.vscode
